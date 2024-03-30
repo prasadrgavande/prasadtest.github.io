@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://prasadtest.github.io/sitemap.xml
+Sitemap: https://prasadrgavande.github.io/prasadtest.github.io//sitemap.xml
